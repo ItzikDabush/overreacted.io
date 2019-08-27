@@ -29,4 +29,5 @@ exports.supportedLanguages = {
   fa: 'فارسی',
   ar: 'العربية',
   sr: 'srpski',
+  he: 'עברית'
 };
